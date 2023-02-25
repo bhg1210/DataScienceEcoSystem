@@ -1,6 +1,6 @@
 # DataScienceEcoSystem
-# H1 "Data Science Tools and Ecosystem"
-## H2 "Author: Hyeongyu Bae"
+# "Data Science Tools and Ecosystem"
+## "Author: Hyeongyu Bae"
 
 In this notebook, Data Science Tools and Ecosystem are summarized.
 
