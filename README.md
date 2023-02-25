@@ -2,22 +2,36 @@
 # H1 "Data Science Tools and Ecosystem"
 ## H2 "Author: Hyeongyu Bae"
 
-"In this notebook, Data Science Tools and Ecosystem are summarized."
+In this notebook, Data Science Tools and Ecosystem are summarized.
 
-"Some of the popular languages that Data Scientists use are: python, R, SQL"
+Some of the popular languages that Data Scientists use are:
+1. python
+2. R
+3. SQL
+4. Java
 
-"Some of the commonly used libraries used by Data Scientists include: Tensorflow, Numpy, Pandas"
+Some of the commonly used libraries used by Data Scientists include
+1. Tensorflow
+2. Numpy
+3. Pandas
 
-"Data Science Tools: GitHub, Jupyter Notebooks, and RStudio IDE"
+Data Science Tools: 
+1. Zepplin 
+2. Jupyter Notebooks
+3. RStudio
 
-"Below are a few examples of evaluating arithmetic expressions in Python"
+Below are a few examples of evaluating arithmetic expressions in Python
 
+#This a simple arithmetic expression to mutiply then add integers
 (3*4)+5
 17
-"This a simple arithmetic expression to mutiply then add integers"
 
-Convert 200 minutes to hours
-"This will convert 200 minutes to hours by diving by 60"
+#This will convert 200 minutes to hours by diving by 60
+200//60
+3
 
 Objectives: 
-List popular languages for Data Science: Python, R, SQL
+Add comments to code cells
+Create marketdown cells
+Add ordered and unordered lists to markdown cells
+
